@@ -30,3 +30,19 @@ body {
 .nav-list__list-item .link:focus {
   color: #404bbf;
 }
+
+.contact {
+  font-style: normal;
+}
+
+.contact .link {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.contact .link:hover,
+.contact .link:focus {
+  color: #404bbf;
+}
