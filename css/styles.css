@@ -46,3 +46,29 @@ body {
 .contact .link:focus {
   color: #404bbf;
 }
+
+.first-section {
+  background-color: #2e2f42;
+}
+
+.first-section__title {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
+}
+
+.first-section__btn {
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+  background-color: #4D5AE5;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+
+.first-section__btn:hover,
+.first-section__btn:focus {
+  background-color: #404BBF;
+}
