@@ -121,7 +121,7 @@ body {
 }
 
 .forth-section__title {
-  font-style: 36px;
+  font-size: 36px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
@@ -142,4 +142,14 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer p {
+  color: #F4F4FD;
+  letter-spacing: 0.02;
+  line-height: 1.5;
 }
